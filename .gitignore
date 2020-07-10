@@ -1,0 +1,13 @@
+## Mach DS store file
+.DS_Store
+
+#idea files
+.idea
+
+#gradle files
+.gradle
+gradle
+
+build
+
+target
